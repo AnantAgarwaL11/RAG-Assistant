@@ -35,7 +35,4 @@ unstructured
 layoutparser
 pytesseract
 opencv-python-headless
-<<<<<<< HEAD
 python-pptx
-=======
->>>>>>> be64c7d4372e09fbfabbf9ac867e6fa2252da49a
